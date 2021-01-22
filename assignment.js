@@ -1,3 +1,11 @@
+// https://github.com/mdrazu722901/assignment3
+
+
+// =============================================strat-main-code-strat=======================================================//
+//=============================================================================================================//
+
+
+
 //=====================================kilometerTOMeter-convert-start=======================================//
 
 function kilometerToMeter(kilometer) {
@@ -52,7 +60,7 @@ function hotelCost(n) {
     return taka;
 }
 
-var countDays = hotelCost(21);
+var countDays = hotelCost(30);
 console.log(countDays);
 
 
@@ -66,6 +74,7 @@ function megaFriend(array) {
     });
     return longest;
 }
+
 var array = ["raju", "rakibhossen", "you", "kamal hosseen", "sakib"];
 var resutl = megaFriend(array);
 console.log(resutl);
@@ -73,3 +82,8 @@ console.log(resutl);
 
 
 //==========================================megaFriend-code-end=================================//
+
+
+
+// =============================================-main-code-end=======================================================//
+//=============================================================================================================//
